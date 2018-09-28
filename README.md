@@ -19,5 +19,4 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 # Vue.js 2 News List
 
 
-
-![](https://img.shields.io/badge/10 days of electron-red.svg?style=for-the-badge)
+https://forthebadge.com/images/badges/video-info.svg
