@@ -21,5 +21,4 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 
 ![](https://img.shields.io/badge/videoinfo-blue.svg?style=for-the-badge)
 
-![](https://img.shields.io/badge/10-days-of-electron
--purple.svg?style=for-the-badge)
+![](https://img.shields.io/badge/10-days-of-electron-purple.svg?style=for-the-badge)
