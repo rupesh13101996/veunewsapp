@@ -4,6 +4,9 @@
 
 ## Build Setup
 
+[![forthebadge](https://forthebadge.com/images/badges/built-by-developer.svg)](https://forthebadge.com)
+
+
 ``` bash
 # install dependencies
 npm install
